@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+      <entry name="!?*.aj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="RPC-client" />
+        <module name="RPC-common" />
+        <module name="RPC-registry" />
+        <module name="RPC-sample-app" />
+        <module name="RPC-sample-client" />
+        <module name="RPC-sample-server" />
+        <module name="RPC-server" />
+        <module name="RPC-Test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="RPC-client" target="1.5" />
+      <module name="RPC-common" target="1.5" />
+      <module name="RPC-registry" target="1.5" />
+      <module name="RPC-sample-app" target="1.5" />
+      <module name="rpc-sample-app" target="1.5" />
+      <module name="RPC-sample-client" target="1.5" />
+      <module name="RPC-sample-server" target="1.5" />
+      <module name="RPC-server" target="1.5" />
+      <module name="RPC-Test" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

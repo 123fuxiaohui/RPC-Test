@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RPC-Test.iml" filepath="$PROJECT_DIR$/RPC-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-client/RPC-client.iml" filepath="$PROJECT_DIR$/RPC-client/RPC-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-common/RPC-common.iml" filepath="$PROJECT_DIR$/RPC-common/RPC-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-registry/RPC-registry.iml" filepath="$PROJECT_DIR$/RPC-registry/RPC-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-sample-app/RPC-sample-app.iml" filepath="$PROJECT_DIR$/RPC-sample-app/RPC-sample-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-sample-client/RPC-sample-client.iml" filepath="$PROJECT_DIR$/RPC-sample-client/RPC-sample-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-sample-server/RPC-sample-server.iml" filepath="$PROJECT_DIR$/RPC-sample-server/RPC-sample-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RPC-server/RPC-server.iml" filepath="$PROJECT_DIR$/RPC-server/RPC-server.iml" />
+    </modules>
+  </component>
+</project>
